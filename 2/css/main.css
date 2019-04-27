@@ -1,0 +1,21 @@
+body {
+    margin-top: 50px;
+}
+
+textarea {
+    width: 100%;
+    min-height: 300px;
+}
+
+.message {
+    position: relative;
+}
+
+button {
+    position: absolute;
+    left:  33.33333333%;
+}
+
+p {
+    margin-top: 15px;
+}
